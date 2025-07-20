@@ -1,3 +1,4 @@
+// ToDo: This is a rubbish first paragraph. Make it better.
 Professor Kael Ithrin gripped the bowl of the bathroom washstand till his knuckles turned white. Hunched over with his eyes closed, he gave a shuddering sigh and straightened. He opened his eyes to glare at his visage in the wall mirror. It looked back at him. Sharp features, close-cropped thinning brown to grey hair and an unruly beard, quite at odds with his otherwise average features. He adjusted his designer glasses, which gave him the appearance of authority he often felt he lacked.
 
 “Don’t judge me!” He muttered, “You knew it would come to this.”
